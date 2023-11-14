@@ -2,6 +2,9 @@
 {
     public class Car
     {
+        /// <summary>
+        /// Car Model
+        /// </summary>
         public int Id { get; set; }
         public string? Manufacturer { get; set; }
         public string? Name { get; set; }
